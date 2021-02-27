@@ -104,4 +104,4 @@ function main() {
     console.log("Media columna 1: " + meanValue1.toFixed(2) + "  ||  Desv std Col1: " + stdDevValue1.toFixed(2));
     console.log("Media columna 2:  " + meanValue2.toFixed(2) + "  ||  Desv std Col2: " + stdDevValue2.toFixed(2));
 }
-// main()
+main();
